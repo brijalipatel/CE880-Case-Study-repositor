@@ -1,1 +1,1 @@
-# CE880-Case-Study-repositor
+# CE880-Case-Study-repository
